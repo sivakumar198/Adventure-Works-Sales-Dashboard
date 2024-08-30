@@ -26,3 +26,16 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 
 ## 📫 Contact
 For any questions or inquiries, please reach out to kondetisiva87@gmail.com.
+
+## Project Showcase
+
+![Executive Dashboard](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0001.png)
+![Map View](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0002.png)
+![Product Details](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0003.png)
+![Customer Detials](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0004.png)
+![Decomposition Tree](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0006.png)
+![Key Influencers](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0007.png)
+
+
+
+
