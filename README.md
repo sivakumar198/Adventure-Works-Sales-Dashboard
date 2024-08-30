@@ -1,4 +1,4 @@
-# Power BI Projects Repository
+# Adventure Works
 
 This is the project i have done as part of my learning Maven Analytices on Udemy.
 
