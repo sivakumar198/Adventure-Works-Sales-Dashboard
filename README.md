@@ -29,12 +29,12 @@ For any questions or inquiries, please reach out to kondetisiva87@gmail.com.
 
 ## Project Showcase
 
-![Executive Dashboard]([Adventure Works_page-0001.jpg](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0001.jpg))
-![Map View](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0002.png)
-![Product Details](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0003.png)
-![Customer Detials](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0004.png)
-![Decomposition Tree](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0006.png)
-![Key Influencers](C:\Users\Siva Kumar\Downloads\Adventure Works_page-0007.png)
+![Executive Dashboard](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0001.jpg)
+![Map View](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0002.jpg))
+![Product Details](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0003.jpg)
+![Customer Detials](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0004.jpg)
+![Decomposition Tree](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0006.jpg)
+![Key Influencers]((https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0007.jpg))
 
 
 
