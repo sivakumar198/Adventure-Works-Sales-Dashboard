@@ -34,7 +34,7 @@ For any questions or inquiries, please reach out to kondetisiva87@gmail.com.
 ![Product Details](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0003.jpg)
 ![Customer Detials](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0004.jpg)
 ![Decomposition Tree](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0006.jpg)
-![Key Influencers]((https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0007.jpg))
+![Key Influencers](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0007.jpg)
 
 
 
