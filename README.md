@@ -1,6 +1,6 @@
 # Power BI Projects Repository
 
-Welcome to my Power BI Projects repository! Here, I share various Power BI projects, including the Adventure Works-type projects that showcase my skills in data visualization and analysis.
+This is the project i have done as part of my learning Maven Analytices on Udemy.
 
 ## 📁 Projects Included
 
