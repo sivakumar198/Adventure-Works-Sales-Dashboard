@@ -28,14 +28,17 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 For any questions or inquiries, please reach out to kondetisiva87@gmail.com.
 
 ## Project Showcase
-
-![Executive Dashboard](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0001.jpg)
-![Map View](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0002.jpg))
-![Product Details](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0003.jpg)
-![Customer Detials](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0004.jpg)
-![Decomposition Tree](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0006.jpg)
-![Key Influencers](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20Works_page-0007.jpg)
-
-
+## Executive View
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Executive%20Dashboard-1.png)
+## Customer View
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Customer%20view.png)
+## Product View
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Products%20view.png)
+## Map view
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Map.png)
+## Decomposition Tree
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Decomposition%20Tree.png)
+## Key Infuencers
+![Alt Text](https://github.com/sivakumar198/Adventure-Works-Sales-Dashboard/blob/main/resources/Key%20Influencers.png)
 
 
